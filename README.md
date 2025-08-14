@@ -47,6 +47,8 @@ The project is part of my personal preparation for an upcoming **hackathon** Goo
 - Google ADK Quickstart: https://google.github.io/adk-docs/streaming/custom-streaming-ws/#3.-interact-with-your-streaming-app
 
 ## Documentation
-- Graph
+- Visulize your Agent
+  ```bash
+  adk web
 ![Video3](https://github.com/user-attachments/assets/f674081c-88d7-424a-bf29-2e2054c26e92)
    
